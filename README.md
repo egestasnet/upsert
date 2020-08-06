@@ -9,7 +9,7 @@ To use the `upsert_class.php` file, open the `class.db.php` file and change `pri
 
 ## What does it?
 
-It is based on the MySQL function :
+It is based on the MySQL statement :
 
 `INSERT ON DUPLICATE KEY UPDATE`
 
