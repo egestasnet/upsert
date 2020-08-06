@@ -5,7 +5,7 @@ This is an extension of the `class.db.php` library.
 
 Download the file and add it to this project.
 
-To use the `upsert_class.php` file, open the `class.db.php file and change `private $link = null;` to `protected $link = null;`.
+To use the `upsert_class.php` file, open the `class.db.php` file and change `private $link = null;` to `protected $link = null;`.
 
 #What does it?
 
