@@ -34,7 +34,7 @@ if ( $added )
 		{
 		?>
 
-		<th<?php echo ( $field == 'aktief' ? ' style="text-align: center;"' : '' ); ?>><?php echo ucfirst( $field ); ?></th>
+		<th><?php echo ucfirst( $field ); ?></th>
 
 		<?php
 		}
